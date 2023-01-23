@@ -23,4 +23,4 @@ Esse projeto é um controlador/registrador de hábitos, onde você registra no d
 
 - [Visite o projeto online](https://rhuanalmeida.github.io/nlwSetup)
 
-- Você pode visitar o layout desse projeto atraves [DESSE LINK](<https://www.figma.com/file/v7dwWUPs4gsMiLVjBQukZ1/Habits-(e)-(Community)?node-id=75%3A567&t=JKiKwThX6dWN3Pqs-0>)
+- Você pode visitar o layout desse projeto atraves [DESSE LINK](https://www.figma.com/community/file/1195327109778210238)
