@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Esse projeto é um controlador/registrador de hábitos, onde você registra no dia a dia hábitos que foram executados e não executados.
+Esse projeto é um controlador/registrador de hábitos, onde você registra no dia a dia hábitos que foram executados ou não.
 
 - [Visite o projeto online](https://rhuanalmeida.github.io/nlwSetup)
 
